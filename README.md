@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ImMaddd">
-    <img src="https://img.shields.io/github/followers/ImMaddd?label=Followers&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/ImMaddd?logo=github&style=social&label=Followers" alt="GitHub Followers" />
   </a>
 </p>
 
