@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1a1a2e,16213e,0f3460,e94560&height=250&section=header&text=Hi%20there,%20I'm%20Alvin!%20%F0%9F%91%8B&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff" alt="Header" />
 </div>
 
-<h3 align="center">Software Developer | Tech Enthusiast 🚀</h3>
+<h3 align="center">Master of IT | College Instructor | Full-Stack Developer 🚀</h3>
 
 <p align="center">
   <a href="https://github.com/ImMaddd">
