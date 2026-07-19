@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,js,html,css,bootstrap,react,nextjs,nodejs,mysql,sqlite,git,github,vscode&theme=dark" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=py,django,js,html,css,bootstrap,react,nextjs,nodejs,mysql,sqlite,git,github,php,vscode&theme=dark" alt="Skills" />
   </a>
 </p>
 
@@ -37,8 +37,8 @@
   <br>
   
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ImMaddd&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImMaddd&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+    <img src="https://github-readme-stats.shion.dev/api?username=ImMaddd&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ImMaddd&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
   </p>
   
   <br>
